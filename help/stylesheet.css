@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Cloister';
-    src: url('CloisterBlack-Light.woff2') format('woff2'),
-        url('CloisterBlack-Light.woff') format('woff');
+    src: url('https://ehelper.github.io/Ehelper/help/CloisterBlack-Light.woff2') format('woff2'),
+        url('https://ehelper.github.io/Ehelper/help/CloisterBlack-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
